@@ -1,6 +1,6 @@
 ######################
 # Unit 0 Lab 4
-# conditionals-example.py
+# conditionals_example.py
 #######################
 
 for i in range(20):

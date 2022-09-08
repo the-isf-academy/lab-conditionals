@@ -1,6 +1,6 @@
 ######################
 # Unit 0 Lab 4
-# conditionals-modulo.py
+# conditionals_modulo.py
 #######################
 
 print(5%2)

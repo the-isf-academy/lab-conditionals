@@ -1,6 +1,6 @@
 ######################
 # Unit 0 Lab 4
-# conditionals-rainbow.py
+# conditionals_rainbow.py
 #######################
 
 from turtle import *
