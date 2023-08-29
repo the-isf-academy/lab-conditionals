@@ -1,7 +1,4 @@
-######################
-# Unit 0 Lab 4
-# conditionals_user_input.py
-#######################
+# user_input.py
 
 from turtle import *
 

@@ -1,7 +1,4 @@
-######################
-# Unit 0 Lab 4
-# conditionals_pattern.py
-#######################
+# pattern.py
 
 from turtle import *
 

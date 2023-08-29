@@ -1,7 +1,4 @@
-######################
-# Unit 0 Lab 4
-# conditionals_rainbow.py
-#######################
+# rainbow.py
 
 from turtle import *
 speed(0)

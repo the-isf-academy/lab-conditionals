@@ -1,7 +1,4 @@
-######################
-# Unit 0 Lab 4
-# conditionals_example.py
-#######################
+# example.py
 
 for i in range(20):
     if i < 10:
