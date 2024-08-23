@@ -6,7 +6,6 @@ pensize(2)
 speed(0)
 for i in range(8):
     color("red")
-    
 
     for j in range(4):
         forward(150)
